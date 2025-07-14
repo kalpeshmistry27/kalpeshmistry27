@@ -43,7 +43,7 @@ My mission? To turn strategy into action, streamline complexity, and **leverage 
 ### 📫 Let’s connect
 📧 kalpeshmistry27@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kalpeshmistry27)  
-🌐 [My Portfolio / Projects](#) _(coming soon)_
+🌐 [My Portfolio / Projects](#) _(https://github.com/kalpeshmistry27/Cyclist-Bi-Capstone)_
 
 ---
 
