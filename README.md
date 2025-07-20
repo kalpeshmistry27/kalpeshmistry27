@@ -23,6 +23,7 @@ My mission? To turn strategy into action, streamline complexity, and **leverage 
 - Advanced prompting & LLM integration for product workflows (via Google AI, IBM, Microsoft)
 - Building AI agents and GPT-based tools
 - UX research synthesis with Notion AI & Miro
+- Build AI Agents and automate workflows with n8n
 
 ---
 
