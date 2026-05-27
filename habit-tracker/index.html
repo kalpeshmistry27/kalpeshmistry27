@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#6c5ce7" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Habits" />
+  <title>Habit Tracker</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icons/icon.svg" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <div class="header-top">
+        <div>
+          <p class="greeting" id="greeting">Hello</p>
+          <h1 class="date" id="today-date">Today</h1>
+        </div>
+        <div class="progress-ring" id="progress-ring">
+          <svg viewBox="0 0 80 80" aria-hidden="true">
+            <circle class="ring-bg" cx="40" cy="40" r="34" />
+            <circle class="ring-fg" id="ring-fg" cx="40" cy="40" r="34" />
+          </svg>
+          <span class="ring-label" id="ring-label">0%</span>
+        </div>
+      </div>
+      <p class="subtitle" id="summary">Let's build some good habits.</p>
+    </header>
+
+    <main class="content">
+      <section class="habits" id="habit-list" aria-label="Today's habits"></section>
+
+      <section class="history-section">
+        <h2 class="section-title">Last 7 days</h2>
+        <div class="history" id="history"></div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <span id="footer-streak">Keep going! 🔥</span>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
