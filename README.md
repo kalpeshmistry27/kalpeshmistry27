@@ -32,12 +32,9 @@ I document every build, the decisions, the failures, and the prompts, every week
 
 That is the combination I bring: I build like an engineer, decide like a product manager, and test like a user.
 
-## 📂 Around this profile
+## 📂 About the code
 
-- [`sun-ventures`](https://github.com/kalpeshmistry27/sun-ventures), the site behind [sunventures.studio](https://sunventures.studio)
-- [`caption-coach-ai`](https://github.com/kalpeshmistry27/caption-coach-ai), the iOS app on the App Store
-- Most product code lives in private repos; the contribution graph tells the story
-
+Most of my product code lives in private repos, it is real, revenue-bearing work. The contribution graph tells the story, and every product links to its live, verifiable result above.
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/kalpeshmistry27) · [sunventures.studio](https://sunventures.studio) · kalpeshmistry27@gmail.com
