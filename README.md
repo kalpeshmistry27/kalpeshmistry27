@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Kalpesh Mistry, I design and ship AI products end to end" width="100%">
+<img src="github-banner.png" alt="Kalpesh Mistry, I design and ship AI products end to end" width="100%">
 
 **Every product below is live today. Click any of them.**
 
